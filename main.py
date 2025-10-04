@@ -1,7 +1,7 @@
 # Import all the functions and the Result class to simulate the flow.
-from Flow.Calculate import calc_tax, calc_total
-from Flow.Validation import validate_amount, validate_taxes
-from Flow.Action import Result, save_action, print_action
+from Flow import calc_tax, calc_total
+from Flow import validate_amount, validate_taxes
+from Flow import Result, save_action, print_action
 
 # This function process simulates all the flow. 
 def process(amount, tax=0.12, save=False): # Here we recive the data.
