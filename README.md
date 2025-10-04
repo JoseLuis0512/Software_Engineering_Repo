@@ -1,19 +1,7 @@
 # Folder structure:
 
-Software_Engineering_Repo/
-├── Flow/
-│   ├── __init__.py
-│   ├── Calculate.py       # calc_tax, calc_total
-│   ├── Validation.py      # validate_amount, validate_taxes
-│   └── Action.py          # Result dataclass, print_action, save_action
-├── tests/
-│   ├── Calculate_test.py
-│   ├── Validation_test.py
-│   └── Action_test.py
-├── tests/integration/
-│   └── full_flow_test.py
-├── main.py
-└── README.md
+<img width="525" height="294" alt="imagen" src="https://github.com/user-attachments/assets/57ed5480-c4e3-40a0-a567-f2709dbe5fa3" />
+
 
 # Example content:
 
