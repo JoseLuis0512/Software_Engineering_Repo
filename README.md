@@ -1,14 +1,4 @@
-# Folder structure:
 
-<img width="525" height="294" alt="imagen" src="https://github.com/user-attachments/assets/57ed5480-c4e3-40a0-a567-f2709dbe5fa3" />
-
-
-# Example content:
-
-## Flow/__init__.py
-# empty or just comments
-# Flow package init
-# This file makes Flow a Python package
 
 ## Flow/Calculate.py
 def calc_tax(amount, tax):
